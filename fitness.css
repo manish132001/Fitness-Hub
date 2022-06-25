@@ -1,0 +1,105 @@
+h1{
+    text-align: center;
+    color: white;
+    font-size: 65px;
+}
+h2{
+    color:white;
+    font-size: 40px;
+    text-align: center;
+    
+}
+img{
+    width:900px ;
+    height: 400px;
+    
+}
+form{
+    text-align: center;
+}
+div h2{
+    text-align: right ;
+    
+}
+
+    
+
+.plan{
+    display: inline;
+    margin-left: 40px;
+}
+#diet{
+    text-align: left;
+    color:white;
+    display: inline;
+    margin: 20px;
+}
+#diet:hover{
+     color: yellow;
+}
+
+div h2:hover{
+    color: yellow;
+}
+
+#nav{
+    display: inline;
+    text-transform: capitalize;
+    margin: 10px;
+
+}
+a:hover{
+    color:yellow;
+}
+a{
+    color: white;
+}
+.targetmuscles{
+    text-align: left;
+    margin: 40px;
+}
+h2 ul{
+    margin: 60px;
+}
+ul{
+    font-size: 1.5em;
+}
+#coupan{
+    color: white;
+    font-size: 30px;
+    display: flex;
+    text-align: justify;
+    /* align-items: center; */
+    justify-content: center;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://images.unsplash.com/photo-1507398941214-572c25f4b1dc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fGZpdG5lc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 900px;
+     
+
+}
+button:hover{
+    border:12px ;
+    border-style: double;
+    border-color: black;
+    background-color: cornsilk;
+}
+span{
+    color: white;
+}
+#name{
+    color: black;
+}
+#phonenumber{
+    color:black;
+}
+#dateofjoining{
+    color: black;
+}
+
+
